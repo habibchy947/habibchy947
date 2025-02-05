@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2034<br>📚 I'm currently learning MongoDb<br>🎯 Goals: Become senior web developer in 2025.<br>🎲 Fun fact: I am developing website like magic.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently exploring Next.js<br>🎯 Goals: Become senior web developer in 2025.<br>🎲 Fun fact: I am developing website like magic.</p>
 
 ###
 
