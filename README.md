@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hi! I'm Habib Ullah Chy, a passionate full-stack web developer with a knack for creating dynamic, user-friendly, and responsive web applications. I love solving complex problems with clean and efficient code.</p>
+<p align="left">Hi! I'm Habib Ullah Chy, a passionate Frontend web developer with a knack for creating dynamic, user-friendly, and responsive web applications. I love solving complex problems with clean and efficient code.</p>
 
 ###
 
